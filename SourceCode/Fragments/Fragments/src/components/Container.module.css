@@ -1,0 +1,7 @@
+.myContainer{
+    border: 2px solid;
+    width: 50%;
+    border-radius: 5px;
+    min-width: 300px;
+    margin: 10px;
+}
